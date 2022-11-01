@@ -270,7 +270,19 @@ CMakeFiles/membot.dir/src/chatgui.cpp.o: \
  /usr/local/include/wx-3.2/wx/imagtiff.h \
  /usr/local/include/wx-3.2/wx/imagpnm.h \
  /usr/local/include/wx-3.2/wx/imagxpm.h \
- /usr/local/include/wx-3.2/wx/imagiff.h \
+ /usr/local/include/wx-3.2/wx/imagiff.h /usr/include/c++/11/memory \
+ /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
+ /usr/include/c++/11/bits/unique_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr_base.h \
+ /usr/include/c++/11/bits/allocated_ptr.h \
+ /usr/include/c++/11/ext/concurrence.h \
+ /usr/include/c++/11/bits/shared_ptr_atomic.h \
+ /usr/include/c++/11/bits/atomic_base.h \
+ /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/11/backward/auto_ptr.h \
+ /usr/include/c++/11/pstl/glue_memory_defs.h \
  /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatbot.h \
  /usr/local/include/wx-3.2/wx/bitmap.h \
  /usr/local/include/wx-3.2/wx/gtk/bitmap.h \
