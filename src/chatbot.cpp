@@ -96,12 +96,6 @@ ChatBot &ChatBot::operator=(ChatBot &&source)
         return *this;
     }
 
-    if (_image != NULL) // Attention: wxWidgets used NULL and not nullptr
-    {
-        delete _image;
-        _image = NULL;
-    }
-
     _image = source._image;
     source._image = NULL;
     _rootNode = source._rootNode;
