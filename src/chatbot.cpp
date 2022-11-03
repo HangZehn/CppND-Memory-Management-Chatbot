@@ -43,7 +43,7 @@ ChatBot::~ChatBot()
 }
 
 // copy constructor
-ChatBot::ChatBot(ChatBot &source)
+ChatBot::ChatBot(const ChatBot &source)
 {
     std::cout << "ChatBot Copy Constructor" << std::endl;
     _image = new wxBitmap();
@@ -53,7 +53,7 @@ ChatBot::ChatBot(ChatBot &source)
 }
 
 // copy assignment
-ChatBot &ChatBot::operator=(ChatBot &source)
+ChatBot &ChatBot::operator=(const ChatBot &source)
 {
     std::cout << "ChatBot Copy Assignment" << std::endl;
     if (this == &source)
