@@ -235,6 +235,19 @@ CMakeFiles/membot.dir/src/chatbot.cpp.o: /home/hanzhang.ren/Github/CppND-Memory-
   /usr/include/c++/11/bits/erase_if.h \
   /usr/include/c++/11/ctime \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatlogic.h \
+  /usr/include/c++/11/memory \
+  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/11/bits/align.h \
+  /usr/include/c++/11/bits/unique_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr_base.h \
+  /usr/include/c++/11/bits/allocated_ptr.h \
+  /usr/include/c++/11/ext/concurrence.h \
+  /usr/include/c++/11/bits/shared_ptr_atomic.h \
+  /usr/include/c++/11/bits/atomic_base.h \
+  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/11/backward/auto_ptr.h \
+  /usr/include/c++/11/pstl/glue_memory_defs.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatgui.h \
   /usr/local/include/wx-3.2/wx/wx.h \
   /usr/local/include/wx-3.2/wx/defs.h \
@@ -514,19 +527,6 @@ CMakeFiles/membot.dir/src/chatbot.cpp.o: /home/hanzhang.ren/Github/CppND-Memory-
   /usr/local/include/wx-3.2/wx/filectrl.h \
   /usr/local/include/wx-3.2/wx/mdi.h \
   /usr/local/include/wx-3.2/wx/gtk/mdi.h \
-  /usr/include/c++/11/memory \
-  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
-  /usr/include/c++/11/bits/align.h \
-  /usr/include/c++/11/bits/unique_ptr.h \
-  /usr/include/c++/11/bits/shared_ptr.h \
-  /usr/include/c++/11/bits/shared_ptr_base.h \
-  /usr/include/c++/11/bits/allocated_ptr.h \
-  /usr/include/c++/11/ext/concurrence.h \
-  /usr/include/c++/11/bits/shared_ptr_atomic.h \
-  /usr/include/c++/11/bits/atomic_base.h \
-  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
-  /usr/include/c++/11/backward/auto_ptr.h \
-  /usr/include/c++/11/pstl/glue_memory_defs.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphnode.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatbot.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphedge.h
@@ -1265,6 +1265,20 @@ CMakeFiles/membot.dir/src/chatlogic.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
   /usr/include/c++/11/pstl/execution_defs.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphedge.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphnode.h \
+  /usr/include/c++/11/memory \
+  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/11/bits/align.h \
+  /usr/include/c++/11/bit \
+  /usr/include/c++/11/bits/unique_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr_base.h \
+  /usr/include/c++/11/bits/allocated_ptr.h \
+  /usr/include/c++/11/ext/concurrence.h \
+  /usr/include/c++/11/bits/shared_ptr_atomic.h \
+  /usr/include/c++/11/bits/atomic_base.h \
+  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/11/backward/auto_ptr.h \
+  /usr/include/c++/11/pstl/glue_memory_defs.h \
   /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatbot.h \
   /usr/local/include/wx-3.2/wx/bitmap.h \
   /usr/local/include/wx-3.2/wx/string.h \
@@ -1567,21 +1581,7 @@ CMakeFiles/membot.dir/src/chatlogic.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
   /usr/local/include/wx-3.2/wx/gtk/filectrl.h \
   /usr/local/include/wx-3.2/wx/filectrl.h \
   /usr/local/include/wx-3.2/wx/mdi.h \
-  /usr/local/include/wx-3.2/wx/gtk/mdi.h \
-  /usr/include/c++/11/memory \
-  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
-  /usr/include/c++/11/bits/align.h \
-  /usr/include/c++/11/bit \
-  /usr/include/c++/11/bits/unique_ptr.h \
-  /usr/include/c++/11/bits/shared_ptr.h \
-  /usr/include/c++/11/bits/shared_ptr_base.h \
-  /usr/include/c++/11/bits/allocated_ptr.h \
-  /usr/include/c++/11/ext/concurrence.h \
-  /usr/include/c++/11/bits/shared_ptr_atomic.h \
-  /usr/include/c++/11/bits/atomic_base.h \
-  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
-  /usr/include/c++/11/backward/auto_ptr.h \
-  /usr/include/c++/11/pstl/glue_memory_defs.h
+  /usr/local/include/wx-3.2/wx/gtk/mdi.h
 
 CMakeFiles/membot.dir/src/graphedge.cpp.o: /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphedge.cpp \
   /usr/include/stdc-predef.h \
@@ -2222,8 +2222,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphedge.cpp:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h:
-
 /usr/local/include/wx-3.2/wx/unix/chkconf.h:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
@@ -2237,6 +2235,18 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatgui.h:
 
 /usr/include/c++/11/bits/ostream_insert.h:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/11/bits/shared_ptr_base.h:
+
+/usr/include/c++/11/bits/basic_string.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/11/memory:
 
 /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatlogic.h:
 
@@ -2274,10 +2284,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/include/c++/11/pstl/execution_defs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
-
-/usr/include/c++/11/debug/debug.h:
-
 /usr/include/c++/11/bits/stl_relops.h:
 
 /usr/include/limits.h:
@@ -2287,6 +2293,8 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/local/include/wx-3.2/wx/build.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/c++/11/bits/align.h:
 
 /usr/include/c++/11/vector:
 
@@ -2376,6 +2384,10 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
+/usr/include/c++/11/bits/atomic_lockfree_defines.h:
+
+/usr/local/include/wx-3.2/wx/generic/panelg.h:
+
 /usr/include/c++/11/bits/basic_string.tcc:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
@@ -2383,6 +2395,10 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/c++/11/tr1/ell_integral.tcc:
 
 /usr/local/include/wx-3.2/wx/dataobj.h:
+
+/usr/local/include/wx-3.2/wx/colour.h:
+
+/usr/include/asm-generic/errno.h:
 
 /usr/local/include/wx-3.2/wx/sharedptr.h:
 
@@ -2438,6 +2454,10 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/clntdata.h:
 
+/usr/include/c++/11/debug/debug.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
+
 /usr/include/linux/errno.h:
 
 /usr/local/include/wx-3.2/wx/wxcrtvararg.h:
@@ -2462,10 +2482,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/include/c++/11/typeinfo:
 
-/usr/local/include/wx-3.2/wx/wx.h:
-
-/usr/local/include/wx-3.2/wx/types.h:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/opt_random.h:
@@ -2474,23 +2490,9 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/validate.h:
 
-/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
-
-/usr/include/linux/limits.h:
-
-/usr/include/c++/11/bits/basic_string.h:
-
-/usr/include/c++/11/bits/shared_ptr_base.h:
-
 /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/chatbot.cpp:
 
 /usr/include/c++/11/pstl/glue_numeric_defs.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/locale.h:
-
-/usr/include/x86_64-linux-gnu/bits/local_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
@@ -2509,6 +2511,12 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/c++/11/bits/stl_tempbuf.h:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
+
+/usr/include/c++/11/bits/shared_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+
+/usr/include/c++/11/bits/stl_construct.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
@@ -2547,6 +2555,8 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
 /usr/local/include/wx-3.2/wx/beforestd.h:
+
+/usr/include/c++/11/bits/unique_ptr.h:
 
 /usr/include/c++/11/ostream:
 
@@ -2596,11 +2606,19 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/include/features.h:
 
+/usr/include/c++/11/bits/random.tcc:
+
+/usr/include/c++/11/bits/atomic_base.h:
+
 /usr/include/x86_64-linux-gnu/bits/sigstack.h:
 
 /usr/include/c++/11/ext/numeric_traits.h:
 
 /usr/local/include/wx-3.2/wx/xti.h:
+
+/usr/local/include/wx-3.2/wx/hash.h:
+
+/usr/include/c++/11/pstl/glue_memory_defs.h:
 
 /usr/local/include/wx-3.2/wx/gtk/font.h:
 
@@ -2664,12 +2682,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/menu.h:
 
-/usr/local/include/wx-3.2/wx/cpp.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/wchar.h:
-
 /usr/include/c++/11/bits/string_view.tcc:
 
 /usr/local/include/wx-3.2/wx/version.h:
@@ -2723,6 +2735,8 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
 /usr/local/include/wx-3.2/wx/thread.h:
+
+/usr/include/c++/11/ext/concurrence.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
@@ -2790,12 +2804,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/textctrl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
-
-/usr/include/c++/11/bits/stl_construct.h:
-
-/usr/include/c++/11/bits/shared_ptr.h:
-
 /usr/local/include/wx-3.2/wx/translation.h:
 
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
@@ -2805,6 +2813,30 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/c++/11/cstdlib:
 
 /usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/wchar.h:
+
+/usr/local/include/wx-3.2/wx/cpp.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h:
+
+/usr/local/include/wx-3.2/wx/wx.h:
+
+/usr/local/include/wx-3.2/wx/types.h:
+
+/usr/include/c++/11/bits/allocated_ptr.h:
+
+/usr/include/assert.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
 /usr/local/include/wx-3.2/wx/gtk/toolbar.h:
 
@@ -3040,12 +3072,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/font.h:
 
-/usr/include/asm-generic/errno.h:
-
-/usr/local/include/wx-3.2/wx/colour.h:
-
-/usr/include/c++/11/memory:
-
 /usr/include/c++/11/tr1/poly_laguerre.tcc:
 
 /usr/local/include/wx-3.2/wx/gtk/colour.h:
@@ -3196,6 +3222,14 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 
 /usr/local/include/wx-3.2/wx/checklst.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/c++/11/backward/auto_ptr.h:
+
+/usr/local/include/wx-3.2/wx/dlimpexp.h:
+
+/usr/local/include/wx-3.2/wx/scrolbar.h:
+
 /usr/local/include/wx-3.2/wx/stattext.h:
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
@@ -3251,40 +3285,6 @@ CMakeFiles/membot.dir/src/graphnode.cpp.o: /home/hanzhang.ren/Github/CppND-Memor
 /usr/include/x86_64-linux-gnu/bits/sigcontext.h:
 
 /usr/local/include/wx-3.2/wx/gtk/mdi.h:
-
-/usr/include/c++/11/bits/stl_raw_storage_iter.h:
-
-/usr/include/c++/11/bits/align.h:
-
-/usr/include/c++/11/bits/unique_ptr.h:
-
-/usr/include/assert.h:
-
-/usr/include/c++/11/bits/allocated_ptr.h:
-
-/usr/include/c++/11/ext/concurrence.h:
-
-/usr/include/c++/11/bits/shared_ptr_atomic.h:
-
-/usr/include/c++/11/bits/random.tcc:
-
-/usr/include/c++/11/bits/atomic_base.h:
-
-/usr/local/include/wx-3.2/wx/generic/panelg.h:
-
-/usr/include/c++/11/bits/atomic_lockfree_defines.h:
-
-/usr/local/include/wx-3.2/wx/dlimpexp.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
-
-/usr/local/include/wx-3.2/wx/scrolbar.h:
-
-/usr/include/c++/11/backward/auto_ptr.h:
-
-/usr/local/include/wx-3.2/wx/hash.h:
-
-/usr/include/c++/11/pstl/glue_memory_defs.h:
 
 /home/hanzhang.ren/Github/CppND-Memory-Management-Chatbot/src/graphedge.h:
 
